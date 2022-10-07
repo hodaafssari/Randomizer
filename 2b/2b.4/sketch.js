@@ -38,6 +38,7 @@ function draw () {
     //saying this so user knows to click to start randomizer
     text("click to reveal a random cat name from a selection, up to 6 clicks allowed before having to refresh (for now)",windowWidth/2.3,windowHeight/2.3);mousePressed () 
 
+    //calling variable
 let mousePressed
 }    
 
