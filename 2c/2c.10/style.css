@@ -6,3 +6,12 @@ html, body {
     display: block;
   }
   
+  /* #randButton {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  } */
+
+  .text-center {
+    text-align: center;
+  }
